@@ -1,0 +1,7 @@
+ofxOpenCv
+ofxVectorMath
+ofxXmlSettings
+ofxDelaunay
+ofxMSAInteractiveObject
+ofxSimpleGuiToo
+ofxSTL

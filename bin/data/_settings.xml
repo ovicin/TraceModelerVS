@@ -1,0 +1,54 @@
+<controls>
+    <Button_Video_Settings>
+        <name>Video Settings</name>
+        <value>0</value>
+    </Button_Video_Settings>
+    <Button_Learn_Background>
+        <name>Learn Background</name>
+        <value>1</value>
+    </Button_Learn_Background>
+    <SliderInt_Threshold>
+        <name>Threshold</name>
+        <value>35</value>
+    </SliderInt_Threshold>
+    <SliderInt_Capture_Rate>
+        <name>Capture Rate</name>
+        <value>100</value>
+    </SliderInt_Capture_Rate>
+    <Toggle_Manual_Capture>
+        <name>Manual Capture</name>
+        <value>0</value>
+    </Toggle_Manual_Capture>
+    <Button_Capture>
+        <name>Capture</name>
+        <value>0</value>
+    </Button_Capture>
+    <Button_Clear_Shape>
+        <name>Clear Shape</name>
+        <value>0</value>
+    </Button_Clear_Shape>
+    <Button_Export_Model>
+        <name>Export Model</name>
+        <value>0</value>
+    </Button_Export_Model>
+    <SliderInt_Smoothing>
+        <name>Smoothing</name>
+        <value>5</value>
+    </SliderInt_Smoothing>
+    <SliderInt_Z_Spacing>
+        <name>Z Spacing</name>
+        <value>50</value>
+    </SliderInt_Z_Spacing>
+    <SliderFloat_Zoom>
+        <name>Zoom</name>
+        <value>0.000000000</value>
+    </SliderFloat_Zoom>
+    <Toggle_Show_Caps>
+        <name>Show Caps</name>
+        <value>1</value>
+    </Toggle_Show_Caps>
+    <Button_Reset_View>
+        <name>Reset View</name>
+        <value>0</value>
+    </Button_Reset_View>
+</controls>
